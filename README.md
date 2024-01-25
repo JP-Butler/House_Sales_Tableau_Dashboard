@@ -14,7 +14,7 @@ https://github.com/JP-Butler/House_Sales_Tableau_Dashboard/assets/129707393/3ff5
 
 ## Technology
 
-* Tableau Public 2023.3 (current latest version)
+* Tableau Public 2023.3 
 
 ## License & Ownership
 
